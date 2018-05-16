@@ -1,4 +1,4 @@
-# airmon-ng-gui
+# AirSuiteGUI
 <hr />
 So are you tired of the command line interface? Well then chances are you are a script kiddie
 Or maybe you just want to quicker way to use the airmon suite
